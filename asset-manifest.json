@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photographer-spa/static/css/main.7e4c4ccc.chunk.css",
+    "main.js": "/photographer-spa/static/js/main.68526df0.chunk.js",
+    "main.js.map": "/photographer-spa/static/js/main.68526df0.chunk.js.map",
+    "runtime-main.js": "/photographer-spa/static/js/runtime-main.75e526dc.js",
+    "runtime-main.js.map": "/photographer-spa/static/js/runtime-main.75e526dc.js.map",
+    "static/js/2.fe824dc7.chunk.js": "/photographer-spa/static/js/2.fe824dc7.chunk.js",
+    "static/js/2.fe824dc7.chunk.js.map": "/photographer-spa/static/js/2.fe824dc7.chunk.js.map",
+    "index.html": "/photographer-spa/index.html",
+    "precache-manifest.29351138d69762d6406b69b756c1f749.js": "/photographer-spa/precache-manifest.29351138d69762d6406b69b756c1f749.js",
+    "service-worker.js": "/photographer-spa/service-worker.js",
+    "static/css/main.7e4c4ccc.chunk.css.map": "/photographer-spa/static/css/main.7e4c4ccc.chunk.css.map",
+    "static/js/2.fe824dc7.chunk.js.LICENSE": "/photographer-spa/static/js/2.fe824dc7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e526dc.js",
+    "static/js/2.fe824dc7.chunk.js",
+    "static/css/main.7e4c4ccc.chunk.css",
+    "static/js/main.68526df0.chunk.js"
+  ]
+}
